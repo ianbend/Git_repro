@@ -1,3 +1,5 @@
 Test GIT A
 
 Hello
+
+Change on new branch
